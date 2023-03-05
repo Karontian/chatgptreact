@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chatgptreact/static/css/main.073c9b0a.css",
+    "main.js": "/chatgptreact/static/js/main.401d939b.js",
+    "static/js/787.299a8e94.chunk.js": "/chatgptreact/static/js/787.299a8e94.chunk.js",
+    "static/media/logo.svg": "/chatgptreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chatgptreact/index.html",
+    "main.073c9b0a.css.map": "/chatgptreact/static/css/main.073c9b0a.css.map",
+    "main.401d939b.js.map": "/chatgptreact/static/js/main.401d939b.js.map",
+    "787.299a8e94.chunk.js.map": "/chatgptreact/static/js/787.299a8e94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.401d939b.js"
+  ]
+}
